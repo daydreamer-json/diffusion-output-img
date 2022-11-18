@@ -1,0 +1,3 @@
+girl, cute, ((beautiful)), long hair, white hair, light blue eye, fox ear, white dress, shiny, lens flare, night view background, midnight
+Negative prompt: bad_feet, bad_hands, bad_anatomy, bad_proportions, quality
+Steps: 20, Sampler: Euler, CFG scale: 7, Seed: 1351633317, Size: 768x1152, Model hash: 2700c435, Denoising strength: 0.7, First pass size: 0x0
