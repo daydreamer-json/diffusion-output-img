@@ -1,0 +1,3 @@
+stuffed penguin, cute, ((beautiful)), ((best quality))
+Negative prompt: bad feet, bad hands, bad anatomy, bad proportions, quality, longbody, lowres, missing fingers, pubic hair, extra digit, fewer digits, cropped, worst quality, low quality
+Steps: 25, CFG scale: 7, Seed: 1268718901, Size: 1024x768, Model hash: 2700c435, Denoising strength: 0.75, Mask blur: 4
