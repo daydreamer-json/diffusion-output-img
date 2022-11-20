@@ -1,0 +1,3 @@
+((beautiful)), ((best quality)), ((masterpiece)), ((ultra-detailed)), ((illustration)), galaxy, universe, milky way, starry sky, (((landscape))), moon, without character, cyberpunk
+Negative prompt: bad feet, bad hands, bad anatomy, bad proportions, quality, longbody, lowres, pubic hair, extra digit, fewer digits, cropped, worst quality, low quality, text, error, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus, censorship, blurry faces, blank faces, bad face, ugly, extra ear, amputee, extra fingers, 6 fingers, extra feet, ghost
+Steps: 100, Sampler: LMS, CFG scale: 7, Seed: 490587676, Size: 768x1152, Model hash: 2700c435
