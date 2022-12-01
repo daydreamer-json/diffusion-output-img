@@ -1,0 +1,5 @@
+((beautiful)), ((best quality)), ((masterpiece)), ((ultra-detailed)), ((illustration)), ((tidy)), ((black hair)), ((Bun hair)), ((blue eye))
+Negative prompt: bad feet, bad hands, bad anatomy, bad proportions, quality, longbody, lowres, missing fingers, pubic hair, extra digit, fewer digits, cropped, worst quality, low quality, text, error, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus, censorship, missing vagina, blurry faces, blank faces, bad face, ugly, extra ear, amputee, missing hands, missing arms, missing legs, extra fingers, 6 fingers, extra feet, missing nipples, ghost
+Steps: 50, Sampler: DPM++ 2S a Karras, CFG scale: 7, Seed: 3994546609, Size: 768x1152, Model hash: 2700c435, aesthetic_score: 6.4
+, aesthetic_score: 6.4
+
