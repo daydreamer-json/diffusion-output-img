@@ -78,4 +78,18 @@
       <img width="33%" src="https://cdn.jsdelivr.net/gh/daydreamer-json/diffusion-output-img@main/compare/img/sampler/01_12_LMS_Karras.png"><img width="33%" src="https://cdn.jsdelivr.net/gh/daydreamer-json/diffusion-output-img@main/compare/img/sampler/01_13_DPM2_Karras.png"><img width="33%" src="https://cdn.jsdelivr.net/gh/daydreamer-json/diffusion-output-img@main/compare/img/sampler/01_14_DPM++2M_Karras.png">
     </td>
   </tr>
+  <tr>
+    <th>DPM2&nbsp;a&nbsp;Karras</th><th>DPM++&nbsp;2S&nbsp;a&nbsp;Karras</th>
+  <tr>
+    <td colspan="2">
+      <img width="50%" src="https://cdn.jsdelivr.net/gh/daydreamer-json/diffusion-output-img@main/compare/img/sampler/01_15_DPM2_a_Karras.png"><img width="50%" src="https://cdn.jsdelivr.net/gh/daydreamer-json/diffusion-output-img@main/compare/img/sampler/01_16_DPM++2S_a_Karras.png">
+    </td>
+  </tr>
+  <tr>
+    <th>DPM++&nbsp;SDE</th><th>DPM&nbsp;Fast</th><th>DPM++&nbsp;SDE&nbsp;Karras</th>
+  <tr>
+    <td colspan="3">
+      <img width="33%" src="https://cdn.jsdelivr.net/gh/daydreamer-json/diffusion-output-img@main/compare/img/sampler/01_17_DPM++SDE.png"><img width="33%" src="https://cdn.jsdelivr.net/gh/daydreamer-json/diffusion-output-img@main/compare/img/sampler/01_18_DPM_Fast.png"><img width="33%" src="https://cdn.jsdelivr.net/gh/daydreamer-json/diffusion-output-img@main/compare/img/sampler/01_19_DPM++SDE_Karras.png">
+    </td>
+  </tr>
 </table>
