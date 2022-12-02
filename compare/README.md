@@ -2,6 +2,11 @@
 
 ## Models
 
+```text
+Negative prompt: bad feet, bad hands, bad anatomy, bad proportions, quality, longbody, lowres, missing fingers, pubic hair, extra digit, fewer digits, cropped, worst quality, low quality, text, error, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus, censorship, missing vagina, blurry faces, blank faces, bad face, ugly, extra ear, amputee, missing hands, missing arms, missing legs, extra fingers, 6 fingers, extra feet, missing nipples, ghost
+Steps: 30, Sampler: Euler, CFG scale: 7, Seed: 1933254751, Size: 768x1152
+```
+
 - Evt v3.0
 - Anything v3.0
 - EimisAnimeDiffusion v1.0
@@ -26,6 +31,12 @@
 </table>
 
 ## Samplers
+
+```text
+((beautiful)), ((best quality)), ((masterpiece)), ((ultra-detailed)), ((illustration)), ((tidy)), ((black hair)), ((Bun hair)), ((blue eye))
+Negative prompt: bad feet, bad hands, bad anatomy, bad proportions, quality, longbody, lowres, missing fingers, pubic hair, extra digit, fewer digits, cropped, worst quality, low quality, text, error, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus, censorship, missing vagina, blurry faces, blank faces, bad face, ugly, extra ear, amputee, missing hands, missing arms, missing legs, extra fingers, 6 fingers, extra feet, missing nipples, ghost
+Steps: 50, CFG scale: 7, Seed: 3994546609, Size: 768x1152, Model hash: 2700c435
+```
 
 - Euler
 - LMS
